@@ -1,0 +1,13 @@
+/* PageSpeed Ninja 1.0.beta.1.pro | pagespeed.ninja/license.html */
+#wp-admin-bar-pagespeed-ninja .ab-icon:before {
+    top: 2px;
+    content: url('../image/pagespeed-ninja-logo.svg');
+    opacity: 0.75;
+}
+#wp-admin-bar-pagespeed-ninja-upgrade-to-pro a span {
+    color: #fffb00;
+    background-color: #2c3338;
+    display: inline-block;
+    width: 100%;
+    line-height: 100%;
+}

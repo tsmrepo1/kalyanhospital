@@ -1,0 +1,20 @@
+{
+  "method": "js",
+  "image": true,
+  "video": false,
+  "iframe": false,
+  "srcset": true,
+  "noscriptpos": "after",
+  "debug": false,
+  "lqip": "low",
+  "lqip_low_res": 4,
+  "lqip_blur": true,
+  "lqip_embed": false,
+  "edgey": 0,
+  "skipimages": 0,
+  "skipiframes": 0,
+  "addons": [],
+  "rules_img_exclude": null,
+  "rules_video_exclude": null,
+  "rules_iframe_exclude": null
+}

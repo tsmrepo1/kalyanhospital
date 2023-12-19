@@ -1,0 +1,63 @@
+/* PageSpeed Ninja 1.1.1 | pagespeed.ninja/license.html */
+#pagespeedninja_emailform_popup {
+    position: fixed;
+    z-index: 4;
+}
+#pagespeedninja_emailform_popup_filler {
+    height: 72px; /* 1 + 16 + 38 + 16 + 1 */
+}
+#pagespeedninja_emailform {
+    padding: 16px;
+    color: #000;
+    border: 1px solid #FAC300;
+    background-color: #FFFDE3;
+}
+#pagespeedninja_emailform > form {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-justify-content: center;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    gap: 1rem;
+}
+#pagespeedninja_emailform > form > span {
+    font-size: 1rem;
+    line-height: 1;
+}
+#pagespeedninja_emailform input[type=email] {
+    width: 15rem;
+    max-width: 100%;
+    line-height: 1;
+    padding: .5rem 1rem;
+    border: 1px solid #E24B5D;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+#pagespeedninja_emailform input[type=submit] {
+    padding: 0 1rem;
+    color: #FFF;
+    background-color: #E24B5D;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    height: 38px;
+}
+#pagespeedninja_emailform input[type=submit]:disabled {
+    cursor: default;
+    color: #eee;
+    background-color: #ff8590;
+}
