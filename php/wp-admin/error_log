@@ -1,0 +1,1 @@
+[27-Nov-2023 08:49:58 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /home/thinksur/kalyanhospital.thinksurfmedia.com/php/wp-content/plugins/advanced-custom-fields-pro-master/includes/fields/class-acf-field-email.php on line 5
