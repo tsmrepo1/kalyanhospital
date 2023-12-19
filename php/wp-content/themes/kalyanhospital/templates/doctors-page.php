@@ -14,7 +14,7 @@ while ( have_posts() ) : the_post();
             <div class="banner__content__inner">
                <h1>Doctors</h1>
             </div>
-         </div>
+         </div> 
       </div>
    </div>
    
