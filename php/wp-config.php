@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'thinksur_kalyanhospital' );
+define( 'DB_NAME', '' );
 
 /** Database username */
-define( 'DB_USER', 'thinksur_kalyanhospital' );
+define( 'DB_USER', '' );
 
 /** Database password */
-define( 'DB_PASSWORD', '@DUc4ORA$w$#' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
