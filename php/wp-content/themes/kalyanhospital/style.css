@@ -1,0 +1,52 @@
+/*!
+Theme Name: kalyanhospital
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: kalyanhospital
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+.form__holder input[type="tel"] {
+width: 100%;
+width: 100%;
+padding: 13px 20px;
+background: #fff;
+border: solid 1px #aeaeae;
+margin-bottom: 16px;
+}
+.form__holder input[type="email"] {
+width: 100%;
+width: 100%;
+padding: 13px 20px;
+background: #fff;
+border: solid 1px #aeaeae;
+margin-bottom: 16px;
+}
+
+.bookanappointment input[type="email"] {
+  width: 100%;
+  background: none;
+  border: solid 1px #fff;
+  padding: 10px;
+  color: #fff;
+  outline: none;
+  margin-bottom: 16px;
+}
+
+.bookanappointment input[type="tel"] {
+  width: 100%;
+  background: none;
+  border: solid 1px #fff;
+ padding: 13px 20px;
+  color: #fff;
+  outline: none;
+  margin-bottom: 16px;
+}
+.box h3::before{display:none;}
